@@ -1,2 +1,4 @@
 # hello
-just  a   leg
+just  a   good  idea! 
+
+i like  code 
