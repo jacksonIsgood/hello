@@ -19,3 +19,7 @@
 
 3.[WDS] Warnings while compiling. 
 编译时出现警告
+
+4.vue报错:There are multiple modules with names that only differ in casing.
+1 、在引用组件时，路径大小写不对也会造成此报错
+2 、在组件使用vuex时，引用vuex大小写错误
