@@ -1,0 +1,8 @@
+#git 学习  
+mkdir fileName 创建文件后 然后 cd fileName  然后Git init  初始化 会生成一些信息 包括 仓库是否为空的  以及它的路径
+git add fileName 添加你的文件名  到仓库 
+git commit -m "shuo ming keyi zuowei tishi "
+git push origin marster 提交到远端仓库 
+git clone path/repository 克隆仓库的内容 
+git pull 更新代码
+git merge <branch> 合并分支
